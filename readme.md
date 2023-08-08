@@ -6,12 +6,14 @@
 <div align="center">   
     <img src="https://github.com/florian-savoie/florian-savoie/blob/main/img/competences.png" alt="Competences">    
 </div>
-<table>
+<table style="border: 0;">
     <tr>
         <td style="width: 50%;border: 0;">
             <img src="https://github.com/florian-savoie/florian-savoie/blob/main/img/programmer.gif" alt="programmer" style="width: 50%;">
         </td>
         <td>
+            <p>Mon site Web</p>
+            <p>Mon site Web</p>
             <p>Mon site Web</p>
         </td>
     </tr>
