@@ -8,10 +8,10 @@
 </div>
 <table style="border: 0;">
     <tr>
-        <td style="width: 50%;border: 0;">
-            <img src="https://github.com/florian-savoie/florian-savoie/blob/main/img/programmer.gif" alt="programmer" style="width: 50%;">
+        <td style="border: 0;">
+            <img src="https://github.com/florian-savoie/florian-savoie/blob/main/img/programmer.gif" alt="programmer" style="max-width: 50%;">
         </td>
-        <td>
+        <td style="border: 0;">
             <p>Mon site Web</p>
             <p>Mon site Web</p>
             <p>Mon site Web</p>
