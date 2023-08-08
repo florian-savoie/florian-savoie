@@ -7,5 +7,6 @@
     <img src="https://github.com/florian-savoie/florian-savoie/blob/main/img/competences.png" alt="Competences">    
 </div>
 <div>   
-    <img src="https://github.com/florian-savoie/florian-savoie/blob/main/img/programmer.gif" alt="programmer" style="align:left;">    
+    <img src="https://github.com/florian-savoie/florian-savoie/blob/main/img/programmer.gif" alt="programmer" style="align:left;width: 25%;">
+    <P>Mon site Web </P>    
 </div>
