@@ -6,7 +6,13 @@
 <div align="center">   
     <img src="https://github.com/florian-savoie/florian-savoie/blob/main/img/competences.png" alt="Competences">    
 </div>
-<div>   
-    <img src="https://github.com/florian-savoie/florian-savoie/blob/main/img/programmer.gif" alt="programmer" style="align:left;width: 50%;">
-    <P style="align:right;">Mon site Web </P>    
-</div>
+<table>
+    <tr>
+        <td>
+            <img src="https://github.com/florian-savoie/florian-savoie/blob/main/img/programmer.gif" alt="programmer" style="width: 50%;">
+        </td>
+        <td>
+            <p>Mon site Web</p>
+        </td>
+    </tr>
+</table>
