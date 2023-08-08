@@ -10,7 +10,7 @@
 <div align="center">
          <h3 style="color: blue;"> https://floriansavoie.fr/ 🌐</h3>
         <br>
-        www.linkedin.com/in/florian-savoie-3b7765251 💼
+        <h3 style="color: blue;"> www.linkedin.com/in/florian-savoie-3b7765251 💼</h3>
        
 </div>
 <div align="center">   
