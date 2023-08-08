@@ -8,10 +8,10 @@
     <img src="https://github.com/florian-savoie/florian-savoie/blob/main/img/programmer.gif" alt="programmer" width="50%">
 </div>
 <div align="center">
-    <p>https://floriansavoie.fr/ 🌐
+    <p style="font-size: 24px;">https://floriansavoie.fr/ 🌐
         <br>
         www.linkedin.com/in/florian-savoie-3b7765251 💼
-       
+     </p>  
 </div>
 <div align="center">   
     <img src="https://github.com/florian-savoie/florian-savoie/blob/main/img/competences.png" alt="Competences">    
