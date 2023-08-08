@@ -8,7 +8,7 @@
 </div>
 <table>
     <tr>
-        <td>
+        <td style="width: 50%;border: 0;">
             <img src="https://github.com/florian-savoie/florian-savoie/blob/main/img/programmer.gif" alt="programmer" style="width: 50%;">
         </td>
         <td>
